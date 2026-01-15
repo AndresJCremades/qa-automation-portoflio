@@ -1,0 +1,19 @@
+{
+  "name": "qa-automation-portfolio",
+  "version": "1.0.0",
+  "description": "Senior-level QA automation portfolio showcasing API, UI, and BDD testing with Playwright, Cucumber, contract validation, and CI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresJCremades/qa-automation-portoflio.git"
+  },
+  "author": "Andrés-J. Cremades Monserrat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndresJCremades/qa-automation-portoflio/issues"
+  },
+  "homepage": "https://github.com/AndresJCremades/qa-automation-portoflio#readme"
+}
