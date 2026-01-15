@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Senior-level QA automation portfolio showcasing API, UI, and BDD testing with Playwright, Cucumber, contract validation, and CI.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AndresJCremades/qa-automation-portoflio.git"
@@ -17,6 +15,7 @@
   },
   "homepage": "https://github.com/AndresJCremades/qa-automation-portoflio#readme",
   "devDependencies": {
-    "@playwright/test": "^1.57.0"
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.8"
   }
 }
