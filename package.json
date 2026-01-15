@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AndresJCremades/qa-automation-portoflio/issues"
   },
-  "homepage": "https://github.com/AndresJCremades/qa-automation-portoflio#readme"
+  "homepage": "https://github.com/AndresJCremades/qa-automation-portoflio#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0"
+  }
 }
